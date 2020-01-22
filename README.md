@@ -15,11 +15,11 @@ then switch to the virtual environment: `source ./venv/bin/activate`
   
   # Routes
   All HTTP methods are supported.
-  * GET        `/details`
-  * GET       `/details/1`
-  * GET       `/todo/`
-  * GET       `/todo/1`  
-  * POST      `/todo/`
-  * PUT       `/todo/1`
-  * PATCH     `/todo/1`
-  * DELETE    `/todo/1`
+  * GET        `/api/detail`
+  * GET       `/api/detail/1`
+  * GET       `/api/todo/`
+  * GET       `/api/todo/1`  
+  * POST      `/api/todo/`
+  * PUT       `/api/todo/1`
+  * PATCH     `/api/todo/1`
+  * DELETE    `/api/todo/1`
